@@ -1,19 +1,19 @@
 {
   "type": 2,
   "id": "752831914402115456",
-  "name": "Guildy name",
+  "name": "El Espacio (Beta)",
   "avatar": "bb71f469c158984e265093a81b3397fb",
-  "channel_id": "561885260615255432",
-  "guild_id": "56188498421443265",
+  "channel_id": "1004893578234974219",
+  "guild_id": "1004889119232630888",
   "application_id": null,
   "source_guild": {
-    "id": "56188498421476534",
-    "name": "Guildy name",
+    "id": "900749014465650698",
+    "name": "The Space",
     "icon": "bb71f469c158984e265093a81b3397fb"
   },
   "source_channel": {
-    "id": "5618852344134324",
-    "name": "announcements"
+    "id": "910139526951882792",
+    "name": "global-anouncements"
   },
   "user": {
     "username": "test",
